@@ -1,0 +1,36 @@
+.services-main{
+    padding: 20vmin 0vmin 10vmin;
+}
+.services-main h2{
+    color: white;
+    font-size: 4.3vmin;
+    margin-bottom: 10vmin;
+    font-weight: 400;
+}
+
+.services-section{
+    padding: 0vmin 10vmin;
+}
+.service-img{
+    position: relative;
+}
+.service-img .shadow{
+    position: absolute;
+    top: 0vmin;
+    height: 100%;
+    width: 100%;
+}
+html[lang="en"] .service-img .shadow {
+  background-image: linear-gradient(to left, black,rgba(0, 0, 0, 0));
+  right: 0vmin;
+}
+html[lang="ar"] .service-img .shadow {
+  background-image: linear-gradient(to right, black,rgba(0, 0, 0, 0));
+  left: 0vmin;
+}
+.service-paragraph{
+    font-size: 2.5vmin;
+    color: white;
+    padding: 0vmin 1vmin;
+    font-weight: 200;
+}

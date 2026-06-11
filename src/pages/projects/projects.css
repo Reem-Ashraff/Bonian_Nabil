@@ -1,0 +1,61 @@
+.projects-main {
+    padding: 20vmin 0vmin 10vmin;
+}
+
+.projects-main h2 {
+    color: white;
+    font-size: 4.3vmin;
+    margin-bottom: 10vmin;
+    font-weight: 400;
+}
+
+.projects-section {
+    padding: 0vmin 10vmin;
+}
+
+.project-div {
+    width: 30%;
+    cursor: pointer;
+    transition: 1s;
+}
+.project-div:hover{
+    transform: scale(1.05);
+}
+.project-img {
+    position: relative;
+    height: 40vmin;
+}
+
+.project-img img {
+    height: 40vmin;
+}
+
+.project-img .shadow {
+    position: absolute;
+    background-image: linear-gradient(to top, black, rgba(0, 0, 0, 0));
+    bottom: 0vmin;
+    height: 100%;
+    width: 100%;
+}
+
+.project-paragraph {
+    font-size: 2.5vmin;
+    color: white;
+    font-weight: 200;
+    text-align: center;
+    margin-top: 3vmin;
+}
+
+@media (max-width: 768px) {
+    .project-div {
+        width: 100%;
+    }
+
+    .project-img {
+        height: 45vmin;
+    }
+
+    .project-img img {
+        height: 45vmin;
+    }
+}

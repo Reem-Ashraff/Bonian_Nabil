@@ -1,0 +1,118 @@
+.about-main{
+    padding: 20vmin 0vmin 10vmin;
+}
+.about-main h2{
+    color: white;
+    font-size: 4.3vmin;
+    margin-bottom: 10vmin;
+    font-weight: 400;
+}
+.about-description{
+    padding: 0vmin 10vmin;
+    margin-bottom: 10vmin;
+}
+.about-description div{
+    font-size: 2.9vmin;
+    margin-bottom: 5vmin;
+    letter-spacing: 0.1vmin;
+}
+.about-description p{
+    font-size: 2.8vmin;
+    font-weight: 200;
+    letter-spacing: 0.05vmin;
+    margin-bottom: 3vmin;
+}
+
+.team-section{
+    padding: 0vmin 10vmin;
+    margin-top: 10vmin;
+    /* margin-bottom: 10vmin; */
+}
+.team-section h4{
+    color: white;
+    font-size: 3.9vmin;
+    margin-bottom: 3vmin;
+    font-weight: 400;
+}
+.team-section .team-head{
+    font-size: 2.8vmin;
+    margin-bottom: 10vmin;
+}
+.ceo-img{
+    position: relative;
+}
+.ceo-img .shadow {
+    position: absolute;
+    background-image: linear-gradient(to top, black, rgba(0, 0, 0, 0));
+    bottom: 0vmin;
+    height: 100%;
+    width: 100%;
+}
+html[lang="en"] .team-section .ceo-info {
+    margin-left: 5vmin;
+}
+html[lang="ar"] .team-section .ceo-info {
+    margin-right: 5vmin;
+}
+.ceo-info h6{
+    color: white;
+    font-size: 3.1vmin;
+    margin-bottom: 4vmin;
+}
+.ceo-info .ceo-position{
+    color: white;
+    font-size: 2.7vmin;
+    margin-bottom: 1vmin;
+}
+.ceo-info .ceo-description{
+    /* color: white; */
+    font-size: 2.3vmin;
+}
+
+/* .team-div{
+    margin-top: 5vmin;
+} */
+.person-div{
+    width: 49%;
+}
+.person-img{
+    position: relative;
+    height: 48vmin;
+    margin-bottom: 5vmin;
+}
+.person-img .shadow {
+    position: absolute;
+    background-image: linear-gradient(to top, black, rgba(0, 0, 0, 0));
+    bottom: 0vmin;
+    height: 100%;
+    width: 100%;
+}
+.person-info{
+    padding: 2vmin 3vmin;
+}
+.person-info h6{
+    color: white;
+    font-size: 2.7vmin;
+    margin-bottom: 4vmin;
+}
+.person-info .person-position{
+    font-size: 2.5vmin;
+    margin-bottom: 1vmin;
+    font-weight: 300;
+}
+.person-info .person-description{
+    font-size: 2.1vmin;
+}
+.branch{
+    font-size: 2.5vmin;
+    font-weight: 300;
+    letter-spacing: 0.1vmin;
+    margin-top: 7vmin;
+    margin-bottom: 5vmin;
+}
+
+@media (max-width: 768px) {
+    .person-div {
+        width: 100%;
+    }
+}

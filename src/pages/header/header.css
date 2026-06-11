@@ -1,0 +1,105 @@
+header {
+    position: fixed;
+    top: 0vmin;
+    width: 100%;
+    color: white;
+    box-shadow: 0vmin 0vmin 1vmin rgb(65, 63, 63);
+    padding: 1.5vmin 3vmin;
+    z-index: 2000000;
+}
+
+.header {
+    background-color: black;
+}
+
+.home-header {
+    background-color: transparent;
+}
+
+header .logo {
+    width: 12%;
+}
+
+html[lang="en"] header .logo {
+    margin-right: 0.5vmin;
+}
+
+html[lang="ar"] header .logo {
+    margin-left: 0.5vmin;
+}
+
+header h1 {
+    font-size: 2.8vmin;
+    color: white;
+    margin-bottom: 0vmin;
+    font-weight: 300;
+}
+
+header p {
+    font-size: 2vmin;
+    letter-spacing: 0.2vmin;
+    font-weight: 200;
+}
+
+.link1 {
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+    transition: 0.2s;
+}
+
+.active {
+    border-bottom: 0.25vmin solid white;
+}
+
+.link1:hover {
+    border-bottom: 0.25vmin solid white;
+}
+
+header li {
+    color: white;
+    list-style: none;
+    font-size: 2.3vmin;
+    font-weight: 300;
+}
+
+header select {
+    font-size: 2.3vmin;
+    color: white;
+    background-color: rgba(255, 255, 255, 0.089);
+    border-radius: 0.3vmin;
+    padding: 0.6vmin 0.5vmin;
+    border-color: rgba(255, 255, 255, 0.164);
+    outline: none;
+}
+
+header option {
+    font-size: 2.5vmin;
+    color: black;
+    background-color: white;
+}
+
+@media (max-width: 1040px) {
+    header {
+        padding: 3vmin 3vmin;
+    }
+
+    header h1 {
+        font-size: 3vmin;
+    }
+
+    header p {
+        font-size: 1.7vmin;
+    }
+}
+
+@media (max-width: 380px) {
+    html[lang="ar"] header li {
+        font-size: 1.8vmin;
+    }
+}

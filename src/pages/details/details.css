@@ -1,0 +1,46 @@
+.details-main {
+    padding: 20vmin 0vmin 10vmin;
+}
+
+.details-main h2 {
+    color: white;
+    font-size: 4.3vmin;
+    margin-bottom: 10vmin;
+    font-weight: 400;
+}
+
+.details-description{
+    padding: 0vmin 10vmin;
+    margin-bottom: 5vmin;
+}
+.details-description div{
+    font-size: 2.5vmin;
+    font-weight: 200;
+    margin-bottom: 5vmin;
+}
+.details-description p{
+    font-size: 2.5vmin;
+    font-weight: 200;
+}
+.details-imgs{
+    padding: 0vmin 10vmin;
+}
+.details-imgs .head-image{
+    width: 48.5%;
+    margin-bottom: 5vmin;
+}
+.img-margin{
+    margin-bottom: 5vmin;
+}
+.details-imgs .image{
+    width: 48.5%;
+    margin-bottom: 5vmin;
+}
+@media (max-width: 768px) {
+   .details-imgs .head-image{
+    width: 100%;
+}
+.panoram{
+    height: 60vmin;
+}
+}

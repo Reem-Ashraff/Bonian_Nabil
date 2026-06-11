@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "title": "Wabi-Sabi Bedroom",
+    "location":"Location: Egypt",
+    "description": "This bedroom is a tranquil retreat that celebrates the beauty of imperfection, simplicity, and the passage of time. It's a space that promotes relaxation and mindfulness, allowing you to appreciate the inherent beauty in the everyday.",
+    "coverImage": "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom1.png",
+    "panorama": "../../../assets/wabi_sabi_bedroom/panorama.jpeg",
+    "gallery": [
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom3.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom4.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom5.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom6.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom7.jpeg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Home Reception",
+    "location":"Location: Egypt",
+    "description": "The space follows a Modern Minimalist aesthetic with strong Biophilic and Organic Contemporary influences. It emphasizes Quiet Luxury through a monochromatic, earth-toned palette and a sophisticated play on textures rather than bold colors.",
+    "coverImage": "../../../assets/home_reception/home_reception1.png",
+    "panorama": "../../../assets/home_reception/panorama.jpeg",
+    "gallery": [
+      "../../../assets/home_reception/home_reception2.png",
+      "../../../assets/home_reception/home_reception3.png",
+      "../../../assets/home_reception/home_reception4.png",
+      "../../../assets/home_reception/home_reception5.png",
+      "../../../assets/home_reception/home_reception6.png",
+      "../../../assets/home_reception/home_reception7.png",
+      "../../../assets/home_reception/home_reception8.png",
+      "../../../assets/home_reception/home_reception9.png",
+      "../../../assets/home_reception/home_reception10.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Modern IT Office",
+    "location":"Location: Egypt",
+    "description": "Contemporary luxury style with Japandi influence. Natural limestone walls, trazzo flooring, sculpted solid-stone feature desk, matte metal curved backdrop, warm neutral fabric seating, black metal accents. Soft indirect lighting creating gentle shadow gradients. High-end architectural visualization, calm atmosphere, refined material palette.",
+    "coverImage": "../../../assets/modern_it_office/modern_it_office6.png",
+    "panorama": "../../../assets/modern_it_office/panorama.jpeg",
+    "gallery": [
+      "../../../assets/modern_it_office/modern_it_office1.png",
+      "../../../assets/modern_it_office/modern_it_office2.png",
+      "../../../assets/modern_it_office/modern_it_office3.png",
+      "../../../assets/modern_it_office/modern_it_office4.png",
+      "../../../assets/modern_it_office/modern_it_office5.png",
+      "../../../assets/modern_it_office/modern_it_office7.png",
+      "../../../assets/modern_it_office/modern_it_office8.png",
+      "../../../assets/modern_it_office/modern_it_office9.png",
+      "../../../assets/modern_it_office/modern_it_office10.png",
+      "../../../assets/modern_it_office/modern_it_office11.png",
+      "../../../assets/modern_it_office/modern_it_office12.png",
+      "../../../assets/modern_it_office/modern_it_office13.png",
+      "../../../assets/modern_it_office/modern_it_office14.png",
+      "../../../assets/modern_it_office/modern_it_office15.png",
+      "../../../assets/modern_it_office/modern_it_office16.png",
+      "../../../assets/modern_it_office/modern_it_office17.png",
+      "../../../assets/modern_it_office/modern_it_office18.png",
+      "../../../assets/modern_it_office/modern_it_office19.png",
+      "../../../assets/modern_it_office/modern_it_office20.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Modern Bedroom",
+    "location":"Location: Egypt",
+    "description": "A modern bedroom designed with a harmonious blend of natural materials and refined minimalism. The illuminated arched stone feature wall creates a striking focal point, adding depth and character to the space. Soft earthy tones, concealed ambient lighting, and carefully selected textures establish a warm and relaxing atmosphere. Clean lines and elegant furnishings enhance the sense of understated luxury and everyday comfort.",
+    "coverImage": "../../../assets/modern_bedroom/modern_bedroom1.jpeg",
+    "panorama": "../../../assets/modern_bedroom/panorama.jpeg",
+    "gallery": [
+      "../../../assets/modern_bedroom/modern_bedroom2.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Harmony Living Room",
+    "location":"Location: Egypt",
+    "description": "A contemporary living space featuring clean lines, comfortable seating, and natural materials that combine functionality with sophisticated elegance.",
+    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
+    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
+    "gallery": [
+      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Hotel Reception",
+    "location":"Location: Egypt",
+    "description": "Designed to create a memorable first impression, this hotel reception combines modern elegance, premium materials, and sophisticated lighting to provide a welcoming and luxurious guest experience.",
+    "coverImage": "../../../assets/hotel_reception/hotel_reception4.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/hotel_reception/hotel_reception1.jpeg",
+      "../../../assets/hotel_reception/hotel_reception2.jpeg",
+      "../../../assets/hotel_reception/hotel_reception3.jpeg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Bliss Clinic",
+    "location":"Location: Egypt",
+    "description": "A modern clinic designed to provide a comfortable and welcoming environment, combining functionality, cleanliness, and contemporary aesthetics to enhance the patient experience.",
+    "coverImage": "../../../assets/bliss_clinic/bliss_clinic1.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/bliss_clinic/bliss_clinic2.jpeg",
+      "../../../assets/bliss_clinic/bliss_clinic3.jpeg",
+      "../../../assets/bliss_clinic/bliss_clinic4.png"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Serenity Bedrooom",
+    "location":"Location: Egypt",
+    "description": "A modern minimalist bedroom designed with soft neutral tones, warm wood textures, and elegant lighting to create a calm and relaxing atmosphere.",
+    "coverImage": "../../../assets/serenity_bedroom/serenity_bedroom1.png",
+    "panorama": "../../../assets/serenity_bedroom/panorama.jpeg",
+    "gallery": [
+      "../../../assets/serenity_bedroom/serenity_bedroom2.png",
+      "../../../assets/serenity_bedroom/serenity_bedroom3.png",
+      "../../../assets/serenity_bedroom/serenity_bedroom4.png",
+      "../../../assets/serenity_bedroom/serenity_bedroom5.png"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Modern Living Room",
+    "location":"Location: Egypt",
+    "description": "A contemporary living room designed with clean lines, neutral tones, and carefully selected materials to create a comfortable, elegant, and inviting atmosphere.",
+    "coverImage": "../../../assets/modern_living_room/modern_living_room1.jpeg",
+    "panorama": "../../../assets/modern_living_room/panorama.jpeg",
+    "gallery": [
+      "../../../assets/modern_living_room/modern_living_room2.jpeg",
+      "../../../assets/modern_living_room/modern_living_room3.jpeg",
+      "../../../assets/modern_living_room/modern_living_room4.jpeg"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Essence Bedroom",
+    "location":"Location: Egypt",
+    "description": "A luxurious modern bedroom that blends textured surfaces, soft furnishings, and ambient lighting to deliver a refined and cozy experience.",
+    "coverImage": "../../../assets/essence_bedroom/essence_bedroom1.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/essence_bedroom/essence_bedroom2.jpeg",
+      "../../../assets/essence_bedroom/essence_bedroom3.jpeg",
+      "../../../assets/essence_bedroom/essence_bedroom4.jpeg",
+      "../../../assets/essence_bedroom/essence_bedroom5.jpeg",
+      "../../../assets/essence_bedroom/essence_bedroom6.jpeg",
+      "../../../assets/essence_bedroom/essence_bedroom7.jpeg"
+    ]
+  }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "name":"Eng. Mostafa Nabil",
+        "position":"Chief Executive Officer (CEO)",
+        "description":"Leading the company’s strategic direction, business development, and project execution while leveraging expertise in civil engineering, structural systems, construction management, and organizational leadership.",
+        "image":"../../../assets/team/mostafa.jpeg"
+    },
+    {
+        "name":"Hassan Abdelnasser",
+        "position":"Project Manager",
+        "description":"Experienced Project Manager specializing in project coordination, quality control, and successful on-time delivery.",
+        "image":"../../../assets/team/hassan.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Abdullah Mohammed",
+        "position":"Project Manager | Interior Architect",
+        "description":"Interior Architect and Project Manager specializing in design coordination, project execution, and quality delivery.",
+        "image":"../../../assets/team/abdullah.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Alaa Abudeif",
+        "position":"Team Leader | Interior Architect | Architectural Visualizer",
+        "description":"Architectural and interior design specialist with expertise in design development, visualization, and project coordination.",
+        "image":"../../../assets/team/alaa.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Amira Mostafa",
+        "position":"Interior Designer | Architectural Visualizer",
+        "description":"Transforms design concepts into refined interior spaces and professional architectural visualizations with a strong focus on quality, functionality, and detail.",
+        "image":"../../../assets/team/amira.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Engy Samy",
+        "position":"Interior Design Coordinator | Interior Designer",
+        "description":"Specialized in interior design coordination, concept development, and technical documentation to support successful project delivery.",
+        "image":"../../../assets/team/engy.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Reem Ashraf",
+        "position":"Web Developer",
+        "description":"Responsible for designing, developing, and maintaining the company website to ensure a professional and engaging online presence.",
+        "image":"../../../assets/team/reem.jpeg",
+        "location":"Assiut"
+    },
+    {
+        "name":"Kareem Mostafa",
+        "position":"Project Manager | Civil Engineer",
+        "description":"Manages construction projects from planning through execution, ensuring high standards of quality, efficiency, and successful delivery.",
+        "image":"../../../assets/team/kareem.jpeg",
+        "location":"Cairo"
+    },
+    {
+        "name":"Mohammed Adel",
+        "position":"Architectural Engineer",
+        "description":"Architect experienced in designing functional and aesthetically appealing spaces, with a focus on innovative solutions and technical accuracy.",
+        "image":"../../../assets/team/mohammed.jpeg",
+        "location":"Cairo"
+    },
+    {
+        "name":"Abdullah Asr",
+        "position":"Architectural Engineer",
+        "description":"Architect experienced in designing functional and aesthetically appealing spaces, with a focus on innovative solutions and technical accuracy.",
+        "image":"../../../assets/team/asr.jpeg",
+        "location":"Cairo"
+    },
+    {
+        "name":"Merna Mostafa",
+        "position":"Interior Designer",
+        "description":"Designs functional and aesthetically pleasing interior spaces, creating creative solutions that reflect clients' needs and enhance the overall experience.",
+        "image":"../../../assets/team/merna.jpeg",
+        "location":"Cairo"
+    }
+]

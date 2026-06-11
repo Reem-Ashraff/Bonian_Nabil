@@ -32,7 +32,7 @@ const Details = () => {
                 />
                 <meta property="og:title" content={project.title} />
                 <meta property="og:image" content={project.coverImage} />
-                <meta property="og:url" content={window.location.href} />
+                <meta property="og:url" content={`https://bonian-nabil.vercel.app/details/${id}`} />
             </Helmet>
             <main className="details-main">
                 <h2 className="text-center">{project.title}</h2>

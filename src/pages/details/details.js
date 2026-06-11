@@ -30,6 +30,9 @@ const Details = () => {
                     name="keywords"
                     content={`${project.title}, interior design, construction Egypt, architectural project, Bonian Nabil projects`}
                 />
+                <meta property="og:title" content={project.title} />
+  <meta property="og:image" content={project.coverImage} />
+  <meta property="og:url" content={window.location.href} />
             </Helmet>
             <main className="details-main">
                 <h2 className="text-center">{project.title}</h2>

@@ -23,7 +23,7 @@ const Contact = () => {
 
                 <meta property="og:title" content="Contact Us | Bonian Nabil" />
                 <meta property="og:description" content="Get in touch with Bonian Nabil for construction and interior design inquiries and project consultations." />
-                <meta property="og:image" content="https://bonian-nabil.vercel.app/logo2.jpeg" />
+                <meta property="og:image" content="https://bonian-nabil.vercel.app/logo.PNG" />
                 <meta property="og:url" content="https://bonian-nabil.vercel.app/contcat" />
             </Helmet>
             <main className="contact-main content">

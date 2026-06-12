@@ -239,11 +239,11 @@ html[lang="ar"] .action-div .action-text {
     }
 
     .project-img {
-        height: 45vmin;
+        height: 60vmin;
     }
 
     .project-img img {
-        height: 45vmin;
+        height: 60vmin;
     }
 }
 @media (min-width: 450px) {

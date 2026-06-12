@@ -35,6 +35,10 @@ header h1 {
     font-weight: 300;
 }
 
+html[lang="en"] h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header p {
     font-size: 2vmin;
     letter-spacing: 0.2vmin;
@@ -91,6 +95,14 @@ header option {
 
     header h1 {
         font-size: 3vmin;
+    }
+
+    html[lang="en"] header h1 {
+        font-size: 2.5vmin;
+    }
+
+    header .logo {
+        width: 14%;
     }
 
     header p {

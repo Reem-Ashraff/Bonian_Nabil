@@ -1,31 +1,15 @@
 [
   {
     "id": 1,
-    "title": "غرفة نوم وابي-سابي",
-    "location":"الموقع: مصر",
-    "description": "تمثل هذه الغرفة ملاذًا هادئًا يحتفي بجمال البساطة والتفاصيل الطبيعية ومرور الزمن. صُممت لتوفر أجواءً من الراحة والسكينة، وتمنحك مساحة للاسترخاء والتأمل، مع إبراز الجمال الكامن في التفاصيل اليومية البسيطة.",
-    "coverImage": "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom1.png",
-    "panorama": "../../../assets/wabi_sabi_bedroom/panorama.jpeg",
-    "gallery": [
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom3.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom4.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom5.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom6.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom7.jpeg"
-    ]
-  },
-  {
-    "id": 2,
     "title": "ريسبشن منزلي",
     "location":"الموقع: مصر",
     "description": "يجمع هذا المشروع بين بساطة التصميم الحديث وجمال العناصر الطبيعية، مستلهمًا الطراز العضوي المعاصر. وتعكس تفاصيله مفهوم الفخامة الهادئة من خلال ألوان ترابية متناغمة وتوظيف متقن للخامات المختلفة، مما يخلق مساحة أنيقة ومريحة تنبض بالدفء والرقي.",
-    "coverImage": "../../../assets/home_reception/home_reception1.png",
+    "coverImage": "../../../assets/home_reception/home_reception4.png",
     "panorama": "../../../assets/home_reception/panorama.jpeg",
     "gallery": [
       "../../../assets/home_reception/home_reception2.png",
       "../../../assets/home_reception/home_reception3.png",
-      "../../../assets/home_reception/home_reception4.png",
+      "../../../assets/home_reception/home_reception1.png",
       "../../../assets/home_reception/home_reception5.png",
       "../../../assets/home_reception/home_reception6.png",
       "../../../assets/home_reception/home_reception7.png",
@@ -35,18 +19,34 @@
     ]
   },
   {
+    "id": 2,
+    "title": "غرفة نوم وابي-سابي",
+    "location":"الموقع: مصر",
+    "description": "تمثل هذه الغرفة ملاذًا هادئًا يحتفي بجمال البساطة والتفاصيل الطبيعية ومرور الزمن. صُممت لتوفر أجواءً من الراحة والسكينة، وتمنحك مساحة للاسترخاء والتأمل، مع إبراز الجمال الكامن في التفاصيل اليومية البسيطة.",
+    "coverImage": "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.png",
+    "panorama": "../../../assets/wabi_sabi_bedroom/panorama.jpeg",
+    "gallery": [
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom1.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom3.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom4.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom5.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom6.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom7.jpeg"
+    ]
+  },
+  {
     "id": 3,
     "title": "مكتب تقني عصري",
     "location":"الموقع: مصر",
     "description": "يجسد هذا التصميم أسلوب الفخامة المعاصرة مع لمسات مستوحاة من طراز جاباندي الذي يجمع بين البساطة اليابانية والدفء الإسكندنافي. يتميز بجدران من الحجر الجيري الطبيعي، وأرضيات التيرازو، ومكتب استقبال منحوت من الحجر الصلب، مع خلفية من المعدن المطفي بتصميم منحني أنيق.",
-    "coverImage": "../../../assets/modern_it_office/modern_it_office6.png",
+    "coverImage": "../../../assets/modern_it_office/modern_it_office5.png",
     "panorama": "../../../assets/modern_it_office/panorama.jpeg",
     "gallery": [
       "../../../assets/modern_it_office/modern_it_office1.png",
       "../../../assets/modern_it_office/modern_it_office2.png",
       "../../../assets/modern_it_office/modern_it_office3.png",
       "../../../assets/modern_it_office/modern_it_office4.png",
-      "../../../assets/modern_it_office/modern_it_office5.png",
+      "../../../assets/modern_it_office/modern_it_office6.png",
       "../../../assets/modern_it_office/modern_it_office7.png",
       "../../../assets/modern_it_office/modern_it_office8.png",
       "../../../assets/modern_it_office/modern_it_office9.png",

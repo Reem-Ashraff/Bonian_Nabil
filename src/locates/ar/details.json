@@ -20,6 +20,20 @@
   },
   {
     "id": 2,
+    "title": "غرفة معيشة هارموني",
+    "location":"الموقع: مصر",
+    "description": "غرفة معيشة معاصرة تتميز بخطوط بسيطة وأثاث مريح وخامات طبيعية تجمع بين العملية والأناقة الراقية.",
+    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
+    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
+    "gallery": [
+      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
+    ]
+  },
+  {
+    "id": 3,
     "title": "غرفة نوم وابي-سابي",
     "location":"الموقع: مصر",
     "description": "تمثل هذه الغرفة ملاذًا هادئًا يحتفي بجمال البساطة والتفاصيل الطبيعية ومرور الزمن. صُممت لتوفر أجواءً من الراحة والسكينة، وتمنحك مساحة للاسترخاء والتأمل، مع إبراز الجمال الكامن في التفاصيل اليومية البسيطة.",
@@ -35,7 +49,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 4,
     "title": "مكتب تقني عصري",
     "location":"الموقع: مصر",
     "description": "يجسد هذا التصميم أسلوب الفخامة المعاصرة مع لمسات مستوحاة من طراز جاباندي الذي يجمع بين البساطة اليابانية والدفء الإسكندنافي. يتميز بجدران من الحجر الجيري الطبيعي، وأرضيات التيرازو، ومكتب استقبال منحوت من الحجر الصلب، مع خلفية من المعدن المطفي بتصميم منحني أنيق.",
@@ -64,7 +78,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "title": "غرفة نوم عصرية",
     "location":"الموقع: مصر",
     "description": "تصميم غرفة نوم يجمع بين البساطة المعاصرة ودفء المواد الطبيعية، حيث يشكل الجدار الحجري المقوس خلف السرير نقطة محورية مميزة تضيف عمقًا وشخصية للمساحة. تتناغم الألوان الترابية الهادئة مع الإضاءة المخفية الناعمة والخامات الطبيعية لخلق أجواء مريحة ومسترخية. يعزز الأثاث الأنيق والخطوط النظيفة الإحساس بالفخامة الهادئة والراحة اليومية.",
@@ -75,20 +89,6 @@
       "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
       "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
       "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
-    ]
-  },
-  {
-    "id": 5,
-    "title": "غرفة معيشة هارموني",
-    "location":"الموقع: مصر",
-    "description": "غرفة معيشة معاصرة تتميز بخطوط بسيطة وأثاث مريح وخامات طبيعية تجمع بين العملية والأناقة الراقية.",
-    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
-    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
-    "gallery": [
-      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
     ]
   },
   {

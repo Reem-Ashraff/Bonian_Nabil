@@ -24,7 +24,7 @@ const About = () => {
                         
                 <meta property="og:title" content="About Us | Bonian Nabil" />
                 <meta property="og:description" content="Learn more about Bonian Nabil, a company specializing in construction, architecture, and interior design with a focus on quality and innovation." />
-                <meta property="og:image" content="https://bonian-nabil.vercel.app/logo2.jpeg" />
+                <meta property="og:image" content="https://bonian-nabil.vercel.app/logo.PNG" />
                 <meta property="og:url" content="https://bonian-nabil.vercel.app/about" />
             </Helmet>
             <main className="about-main content">

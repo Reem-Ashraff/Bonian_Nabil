@@ -74,7 +74,7 @@ html[lang="en"] .home-description {
 }
 
 html[lang="ar"] .home-description {
-    background: linear-gradient(to right, #ffffff, #131313);
+    background: linear-gradient(to left, #ffffff, #131313);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;

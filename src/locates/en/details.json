@@ -1,26 +1,10 @@
 [
   {
     "id": 1,
-    "title": "Wabi-Sabi Bedroom",
-    "location":"Location: Egypt",
-    "description": "This bedroom is a tranquil retreat that celebrates the beauty of imperfection, simplicity, and the passage of time. It's a space that promotes relaxation and mindfulness, allowing you to appreciate the inherent beauty in the everyday.",
-    "coverImage": "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom1.png",
-    "panorama": "../../../assets/wabi_sabi_bedroom/panorama.jpeg",
-    "gallery": [
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom3.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom4.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom5.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom6.jpeg",
-      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom7.jpeg"
-    ]
-  },
-  {
-    "id": 2,
     "title": "Home Reception",
     "location":"Location: Egypt",
     "description": "The space follows a Modern Minimalist aesthetic with strong Biophilic and Organic Contemporary influences. It emphasizes Quiet Luxury through a monochromatic, earth-toned palette and a sophisticated play on textures rather than bold colors.",
-    "coverImage": "../../../assets/home_reception/home_reception1.png",
+    "coverImage": "../../../assets/home_reception/home_reception4.png",
     "panorama": "../../../assets/home_reception/panorama.jpeg",
     "gallery": [
       "../../../assets/home_reception/home_reception2.png",
@@ -35,11 +19,27 @@
     ]
   },
   {
+    "id": 2,
+    "title": "Wabi-Sabi Bedroom",
+    "location":"Location: Egypt",
+    "description": "This bedroom is a tranquil retreat that celebrates the beauty of imperfection, simplicity, and the passage of time. It's a space that promotes relaxation and mindfulness, allowing you to appreciate the inherent beauty in the everyday.",
+    "coverImage": "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.png",
+    "panorama": "../../../assets/wabi_sabi_bedroom/panorama.jpeg",
+    "gallery": [
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom2.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom3.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom4.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom5.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom6.jpeg",
+      "../../../assets/wabi_sabi_bedroom/wabi_sabi_bedroom7.jpeg"
+    ]
+  },
+  {
     "id": 3,
     "title": "Modern IT Office",
     "location":"Location: Egypt",
     "description": "Contemporary luxury style with Japandi influence. Natural limestone walls, trazzo flooring, sculpted solid-stone feature desk, matte metal curved backdrop, warm neutral fabric seating, black metal accents. Soft indirect lighting creating gentle shadow gradients. High-end architectural visualization, calm atmosphere, refined material palette.",
-    "coverImage": "../../../assets/modern_it_office/modern_it_office6.png",
+    "coverImage": "../../../assets/modern_it_office/modern_it_office5.png",
     "panorama": "../../../assets/modern_it_office/panorama.jpeg",
     "gallery": [
       "../../../assets/modern_it_office/modern_it_office1.png",

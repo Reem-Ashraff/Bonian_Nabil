@@ -174,11 +174,11 @@ html[lang="ar"] .home-description {
 
 .project-img {
     position: relative;
-    height: 40vmin;
+    height: 50vmin;
 }
 
 .project-img img {
-    height: 40vmin;
+    height: 50vmin;
 }
 
 .project-img .shadow {

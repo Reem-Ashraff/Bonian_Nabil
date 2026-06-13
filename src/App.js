@@ -1,6 +1,5 @@
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom/cjs/react-router-dom';
 import './App.css';
-import { useLocation } from 'react-router-dom/cjs/react-router-dom';
 import { Redirect } from "react-router-dom/cjs/react-router-dom";
 import Header from './pages/header/header';
 import Home from './pages/home/home';
@@ -11,6 +10,7 @@ import Projects from './pages/projects/projects';
 import Services from './pages/services/services';
 import Details from './pages/details/details';
 import ScrollToTop from './scrollToTop';
+import { useLocation } from 'react-router-dom/cjs/react-router-dom';
 
 function App() {
   const location = useLocation();

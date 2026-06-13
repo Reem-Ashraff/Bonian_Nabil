@@ -174,11 +174,11 @@ html[lang="ar"] .home-description {
 
 .home-main .project-img {
     position: relative;
-    height: 55vmin;
+    height: 40vmin;
 }
 
 .home-main .project-img img {
-    height: 55vmin;
+    height: 40vmin;
 }
 
 .home-main .project-img .shadow {
@@ -245,12 +245,12 @@ html[lang="ar"] .action-div .action-text {
         width: 100%;
     }
 
-    .project-img {
-        height: 60vmin;
+    .home-main .project-img {
+        height: 55vmin;
     }
 
-    .project-img img {
-        height: 60vmin;
+    .home-main .project-img img {
+        height: 55vmin;
     }
 }
 @media (min-width: 450px) {

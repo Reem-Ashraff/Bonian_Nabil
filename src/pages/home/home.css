@@ -172,16 +172,16 @@ html[lang="ar"] .home-description {
     transform: scale(1.05);
 }
 
-.project-img {
+.home-main .project-img {
     position: relative;
     height: 50vmin;
 }
 
-.project-img img {
+.home-main .project-img img {
     height: 50vmin;
 }
 
-.project-img .shadow {
+.home-main.project-img .shadow {
     position: absolute;
     background-image: linear-gradient(to top, black, rgba(0, 0, 0, 0));
     bottom: 0vmin;

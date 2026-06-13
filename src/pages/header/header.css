@@ -1,5 +1,5 @@
 header {
-    position: static;
+    position: absolute;
     top: 0vmin;
     width: 100%;
     color: white;

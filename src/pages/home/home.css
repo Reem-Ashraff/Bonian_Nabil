@@ -5,6 +5,8 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    top:0vmin;
+    width:100%;
 }
 
 .opacity {

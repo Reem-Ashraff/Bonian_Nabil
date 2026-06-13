@@ -1,5 +1,6 @@
 import { Route, BrowserRouter as Router, Switch } from 'react-router-dom/cjs/react-router-dom';
 import './App.css';
+import { useLocation } from 'react-router-dom/cjs/react-router-dom';
 import { Redirect } from "react-router-dom/cjs/react-router-dom";
 import Header from './pages/header/header';
 import Home from './pages/home/home';
@@ -12,6 +13,8 @@ import Details from './pages/details/details';
 import ScrollToTop from './scrollToTop';
 
 function App() {
+  const location = useLocation();
+  const hideHeaderFooter = location.pathname.startsWith("/home")
   return (
     <>
     <Router>
@@ -27,7 +30,7 @@ function App() {
         <Route path="/services" exact component={Services}></Route>
         <Route path="/details/:id" exact component={Details}></Route>
       </Switch>
-      <Footer></Footer>
+      {!hideHeaderFooter && <Footer></Footer>}
       </div>
     </Router>
     </>

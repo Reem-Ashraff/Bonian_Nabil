@@ -1,7 +1,5 @@
 footer {
     z-index:5000;
-    position: static;
-    bottom:0vmin;
     width:100%;
     padding: 5vmin 10vmin;
     box-shadow: 0vmin 0vmin 1vmin rgb(65, 63, 63);

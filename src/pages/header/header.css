@@ -1,11 +1,12 @@
-header {
-    position: static;
-    top: 0vmin;
+header{
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
+    z-index: 2000000;
     color: white;
     box-shadow: 0vmin 0vmin 1vmin rgb(65, 63, 63);
     padding: 1.5vmin 3vmin;
-    z-index: 2000000;
 }
 
 .header {

@@ -5,7 +5,11 @@ import { Link } from "react-router-dom/cjs/react-router-dom";
 import projectsEn from "../../locates/en/details.json";
 import projectsAr from "../../locates/ar/details.json";
 import { Helmet } from "react-helmet-async";
-import Logo from "../../assets/logo.png"
+import Logo from "../../assets/logo.png";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFacebookF, faInstagram, faWhatsapp } from "@fortawesome/free-brands-svg-icons";
+import { faPhone } from "@fortawesome/free-solid-svg-icons";
+import { faEnvelope } from "@fortawesome/free-regular-svg-icons";
 
 const Home = () => {
 

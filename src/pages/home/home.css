@@ -181,7 +181,7 @@ html[lang="ar"] .home-description {
     height: 50vmin;
 }
 
-.home-main.project-img .shadow {
+.home-main .project-img .shadow {
     position: absolute;
     background-image: linear-gradient(to top, black, rgba(0, 0, 0, 0));
     bottom: 0vmin;

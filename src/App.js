@@ -15,7 +15,7 @@ import ScrollToTop from './scrollToTop';
 function App() {
   const location = useLocation();
   const hiddenRoutes = ["/home"];
-  const hideHeaderFooter = location.pathname === "/" || hiddenRoutes.some(route =>
+  const hideFooter = location.pathname === "/" || hiddenRoutes.some(route =>
     location.pathname.startsWith(route)
   );
   return (
@@ -33,7 +33,7 @@ function App() {
         <Route path="/services" exact component={Services}></Route>
         <Route path="/details/:id" exact component={Details}></Route>
       </Switch>
-      {!hideHeaderFooter && <Footer></Footer>}
+      {!hideFooter && <Footer></Footer>}
       </div>
     </Router>
     </>

@@ -18,8 +18,8 @@ const Home = () => {
         <meta name="description" content="Bonian Nabil is a leading construction and interior design company delivering modern architectural solutions and high-quality finishing works." />
         <meta name="keywords" content="construction, interior design, architecture, Egypt, finishing works" />
       </Helmet>
-            <main className="home-main content">
-
+            <main className="content">
+                <div className="home-main">
                 <section className="background-section d-flex align-items-center">
                     <div className="opacity"></div>
                     <div className="text-div col-12">
@@ -86,7 +86,7 @@ const Home = () => {
                         <Link to="/contact" className="link"><div className="action-btn text-center">{t("home.btn")}</div></Link>
                     </div>
                 </section>
-
+                </div>
             </main>
         </>
     )

@@ -61,11 +61,11 @@ const Footer = () => {
                         </div>
                         <div className="d-flex align-items-center info-div-footer">
                             <FontAwesomeIcon icon={faFacebookF} className="contact-logo-footer"></FontAwesomeIcon>
-                            <a href="https://www.facebook.com/share/1EJAKg2n2t/?mibextid=wwXIfr" className="link contact-info-footer">{t("contact.social")}</a>
+                            <a href="https://www.facebook.com/share/1EJAKg2n2t/?mibextid=wwXIfr" target="_blank" rel="noreferrer" className="link contact-info-footer">{t("contact.social")}</a>
                         </div>
                         <div className="d-flex align-items-center info-div-footer">
                             <FontAwesomeIcon icon={faInstagram} className="contact-logo-footer"></FontAwesomeIcon>
-                            <a href="https://instagram.com/boniannabil?igshid=YmMyMTA2M2Y=" className="link contact-info-footer">{t("contact.social")}</a>
+                            <a href="https://instagram.com/boniannabil?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer" className="link contact-info-footer">{t("contact.social")}</a>
                         </div>
                         <div className="d-flex align-items-center info-div-ooter">
                             <FontAwesomeIcon icon={faEnvelope} className="contact-logo-footer"></FontAwesomeIcon>

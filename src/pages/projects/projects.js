@@ -58,7 +58,10 @@ const Projects = () => {
             <main className="projects-main content">
                 <h2 className="text-center">{t("projects.projects")}</h2>
                 <section className="projects-section d-flex justify-content-between align-items-center">
-                    <button onClick={prevSlide}><FontAwesomeIcon icon={faAngleLeft}></FontAwesomeIcon></button>
+                    {document.documentElement.lang === "en" ?
+                        <button onClick={prevSlide}><FontAwesomeIcon icon={faAngleLeft}></FontAwesomeIcon></button> :
+                        <button onClick={nextSlide}><FontAwesomeIcon icon={faAngleRight}></FontAwesomeIcon></button>
+                    }
                     <div className="position1">
                         <div className="projects-slider w-100" ref={sliderRef}>
                             <div className="shadow-right col-12"></div>
@@ -80,7 +83,10 @@ const Projects = () => {
                             <div className="shadow-left col-12"></div>
                         </div>
                     </div>
-                    <button onClick={nextSlide}><FontAwesomeIcon icon={faAngleRight}></FontAwesomeIcon></button>
+                    {document.documentElement.lang === "en" ?
+                        <button onClick={nextSlide}><FontAwesomeIcon icon={faAngleRight}></FontAwesomeIcon></button> :
+                        <button onClick={prevSlide}><FontAwesomeIcon icon={faAngleLeft}></FontAwesomeIcon></button>
+                    }
                 </section>
             </main>
         </>

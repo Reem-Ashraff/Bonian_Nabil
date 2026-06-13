@@ -4,6 +4,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: #000000 !important;
   color: white !important;
+  position:relative !important; 
 }
 
 code {

@@ -14,7 +14,10 @@ import ScrollToTop from './scrollToTop';
 
 function App() {
   const location = useLocation();
-  const hideHeaderFooter = location.pathname.startsWith("/home")
+  const hiddenRoutes = ["/home"];
+  const hideHeaderFooter = location.pathname === "/" || hiddenRoutes.some(route =>
+    location.pathname.startsWith(route)
+  );
   return (
     <>
     <Router>

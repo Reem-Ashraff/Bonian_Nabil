@@ -42,11 +42,11 @@ const Contact = () => {
                         </div>
                         <div className="d-flex align-items-center info-div">
                             <FontAwesomeIcon icon={faFacebookF} className="contact-logo"></FontAwesomeIcon>
-                            <a href="https://www.facebook.com/share/1EJAKg2n2t/?mibextid=wwXIfr" target="_blank" className="link contact-info">{t("contact.social")}</a>
+                            <a href="https://www.facebook.com/share/1EJAKg2n2t/?mibextid=wwXIfr" target="_blank" rel="noreferrer" className="link contact-info">{t("contact.social")}</a>
                         </div>
                         <div className="d-flex align-items-center info-div">
                             <FontAwesomeIcon icon={faInstagram} className="contact-logo"></FontAwesomeIcon>
-                            <a href="https://instagram.com/boniannabil?igshid=YmMyMTA2M2Y=" target="_blank" className="link contact-info">{t("contact.social")}</a>
+                            <a href="https://instagram.com/boniannabil?igshid=YmMyMTA2M2Y=" target="_blank" rel="noreferrer" className="link contact-info">{t("contact.social")}</a>
                         </div>
                         <div className="d-flex align-items-center info-div">
                             <FontAwesomeIcon icon={faEnvelope} className="contact-logo"></FontAwesomeIcon>

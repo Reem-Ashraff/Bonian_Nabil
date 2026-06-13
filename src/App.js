@@ -10,14 +10,8 @@ import Projects from './pages/projects/projects';
 import Services from './pages/services/services';
 import Details from './pages/details/details';
 import ScrollToTop from './scrollToTop';
-import { useLocation } from 'react-router-dom/cjs/react-router-dom';
 
 function App() {
-  const location = useLocation();
-  const hiddenRoutes = ["/home"];
-  const hideFooter = location.pathname === "/" || hiddenRoutes.some(route =>
-    location.pathname.startsWith(route)
-  );
   return (
     <>
     <Router>
@@ -33,7 +27,7 @@ function App() {
         <Route path="/services" exact component={Services}></Route>
         <Route path="/details/:id" exact component={Details}></Route>
       </Switch>
-      {!hideFooter && <Footer></Footer>}
+      <Footer></Footer>
       </div>
     </Router>
     </>

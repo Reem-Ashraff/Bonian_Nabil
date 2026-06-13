@@ -18,7 +18,7 @@ const Home = () => {
         <meta name="description" content="Bonian Nabil is a leading construction and interior design company delivering modern architectural solutions and high-quality finishing works." />
         <meta name="keywords" content="construction, interior design, architecture, Egypt, finishing works" />
       </Helmet>
-            <main className="home-main">
+            <main className="home-main content">
 
                 <section className="background-section d-flex align-items-center">
                     <div className="opacity"></div>

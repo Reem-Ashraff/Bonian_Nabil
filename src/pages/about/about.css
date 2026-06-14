@@ -78,7 +78,7 @@ html[lang="ar"] .team-section .ceo-info {
 }
 .person-img{
     position: relative;
-    height: 41vmin;
+    height: 42vmin;
 }
 .person-img .shadow {
     position: absolute;
@@ -116,6 +116,6 @@ html[lang="ar"] .team-section .ceo-info {
         width: 100%;
     }
     .person-img{
-        height: 39vmin;
+        height: 40vmin;
     }
 }

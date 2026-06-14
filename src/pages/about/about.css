@@ -115,4 +115,7 @@ html[lang="ar"] .team-section .ceo-info {
     .person-div {
         width: 100%;
     }
+    .person-img{
+        height: 43vmin;
+    }
 }

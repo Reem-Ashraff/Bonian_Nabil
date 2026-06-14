@@ -41,13 +41,6 @@
         "location":"Assiut"
     },
     {
-        "name":"Kareem Mostafa",
-        "position":"Project Manager | Civil Engineer",
-        "description":"Manages construction projects from planning through execution, ensuring high standards of quality, efficiency, and successful delivery.",
-        "image":"../../../assets/team/kareem.jpeg",
-        "location":"Cairo"
-    },
-    {
         "name":"Mohammed Adel",
         "position":"Architectural Engineer",
         "description":"Architect experienced in designing functional and aesthetically appealing spaces, with a focus on innovative solutions and technical accuracy.",
@@ -66,6 +59,13 @@
         "position":"Interior Designer",
         "description":"Designs functional and aesthetically pleasing interior spaces, creating creative solutions that reflect clients' needs and enhance the overall experience.",
         "image":"../../../assets/team/merna.jpeg",
+        "location":"Cairo"
+    },
+    {
+        "name":"Kareem Mostafa",
+        "position":"Project Manager | Civil Engineer",
+        "description":"Manages construction projects from planning through execution, ensuring high standards of quality, efficiency, and successful delivery.",
+        "image":"../../../assets/team/kareem.jpeg",
         "location":"Cairo"
     },
     {

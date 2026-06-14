@@ -9,8 +9,8 @@ const About = () => {
 
     const { t } = useTranslation();
     const team = document.documentElement.lang === "ar" ? TeamAr : TeamEn;
-    const assiutTeam = team.filter(item => item.location === "Assiut");
-    const cairoTeam = team.filter(item => item.location === "Cairo");
+    const Team = team.filter(item => item.type !== "media");
+    const mediaTeam = team.filter(item => item.type === "media");
 
     return (
         <>
@@ -51,9 +51,8 @@ const About = () => {
                             <div className="ceo-description gray">{team[0].description}</div>
                         </div>
                     </div>
-                    <div className="branch">{t("about.branch1")}</div>
                     <div className="d-flex flex-wrap justify-content-between team-div">
-                        {assiutTeam.map((person, index) => {
+                        {Team.slice(1).map((person, index) => {
                             return (
                                 <div key={index} className="person-div d-flex align-items-center">
                                     <div className="col-5 person-img">
@@ -69,9 +68,9 @@ const About = () => {
                             )
                         })}
                     </div>
-                    <div className="branch">{t("about.branch2")}</div>
-                    <div className="d-flex flex-wrap justify-content-between team-div">
-                        {cairoTeam.map((person, index) => {
+                    <div className="branch">{t("about.media")}</div>
+                    <div className="d-flex flex-wrap justify-content-between">
+                        {mediaTeam.map((person, index) => {
                             return (
                                 <div key={index} className="person-div d-flex align-items-center">
                                     <div className="col-5 person-img">

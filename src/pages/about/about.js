@@ -9,7 +9,7 @@ const About = () => {
 
     const { t } = useTranslation();
     const team = document.documentElement.lang === "ar" ? TeamAr : TeamEn;
-    const Team = team.filter(item => item.type !== "media" && item.type !== "programmer");
+    const Team = team.filter(item => item.type === "");
     const mediaTeam = team.filter(item => item.type === "media");
     const programmerTeam = team.filter(item => item.type === "programmer");
 

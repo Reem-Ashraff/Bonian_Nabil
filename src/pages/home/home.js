@@ -26,10 +26,12 @@ const Home = () => {
                         <source src={heroVideo} type="video/mp4"></source>
                     </video>
                     <div className="opacity"></div>
-                    <div className="text-div col-12">
+                    <div className="text-div col-12 d-flex flex-column h-100">
+                        <div>
                         <p className="mb-0 home-paragraph">{t("home.paragraph1")}</p>
                         <p className="mb-0 home-paragraph">{t("home.paragraph2")}</p>
-                        <div className="text-center center-text">
+                        </div>
+                        <div className="text-center">
                             <div className="main-text w-100">{t("home.bold")}</div>
                             <p className="home-description w-100">{t("home.description")}</p>
                         </div>

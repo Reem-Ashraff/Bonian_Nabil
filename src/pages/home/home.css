@@ -257,8 +257,10 @@ html[lang="ar"] .action-div .action-text {
     .home-main .project-img img {
         height: 60vmin;
     }
+}
+@media (max-width: 410px) {
     .center-text{
-        margin: 10vmin 0vmin;
+        margin: 15vmin 0vmin;
     }
 }
 @media (min-width: 450px) {

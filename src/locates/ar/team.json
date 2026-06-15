@@ -97,6 +97,7 @@
         "position":"مطورة موقع إلكتروني",
         "description":"مسؤولة عن تصميم وتطوير وإدارة الموقع الإلكتروني للشركة لضمان حضور رقمي احترافي يعكس هوية الشركة وخدماتها.",
         "image":"../../../assets/team/reem.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":"programmer"
     }
 ]

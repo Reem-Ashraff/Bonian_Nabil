@@ -3,70 +3,80 @@
         "name":"م مصطفى نبيل",
         "position":"المدير التنفيذي",
         "description":"يقود التوجه الاستراتيجي للشركة وتطوير الأعمال وتنفيذ المشاريع، مستندًا إلى خبرته في الهندسة المدنية والأنظمة الإنشائية وإدارة التشييد والقيادة المؤسسية.",
-        "image":"../../../assets/team/mostafa.jpeg"
+        "image":"../../../assets/team/mostafa.jpeg",
+        "type":""
     },
     {
         "name":"حسن عبدالناصر",
         "position":"مدير مشاريع",
         "description":"مدير مشاريع ذو خبرة في تنسيق الأعمال ومراقبة الجودة وضمان تسليم المشاريع بكفاءة وفي الوقت المحدد.",
         "image":"../../../assets/team/hassan.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":""
     },
     {
         "name":"عبدالله محمد",
         "position":"مدير مشاريع | مهندس عمارة داخلية",
         "description":"مهندس عمارة داخلية ومدير مشاريع متخصص في تنسيق التصميم وإدارة التنفيذ وضمان جودة المشاريع.",
         "image":"../../../assets/team/abdullah.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":""
     },
     {
         "name":"الاء ابوضيف",
         "position":"قائدة فريق | مهندسة عمارة داخلية | مصممة ومُظهرة معمارية",
         "description":"متخصصة في التصميم المعماري والداخلي، وتطوير التصاميم والإظهار المعماري وتنسيق المشاريع.",
         "image":"../../../assets/team/alaa.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":""
     },
     {
         "name":"أميرة مصطفى",
         "position":"مصممة داخلية | مُظهرة معمارية",
         "description":"تحوّل الأفكار التصميمية إلى مساحات داخلية متقنة وتصورات معمارية احترافية مع التركيز على الجودة والوظيفية ودقة التفاصيل.",
         "image":"../../../assets/team/amira.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":""
     },
     {
         "name":"انجي سامي",
         "position":"منسقة تصميم داخلي | مصممة داخلية",
         "description":"متخصصة في تنسيق التصميم الداخلي وتطوير المفاهيم التصميمية وإعداد الوثائق الفنية لدعم تنفيذ المشاريع بكفاءة.",
         "image":"../../../assets/team/engy.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":""
     },
     {
         "name":"محمد عادل",
         "position":"مهندس معماري",
         "description":"مهندس معماري ذو خبرة في تصميم مساحات عملية وجذابة، مع التركيز على الحلول المبتكرة والدقة الفنية.",
         "image":"../../../assets/team/mohammed.jpeg",
-        "location":"Cairo"
+        "location":"Cairo",
+        "type":""
     },
     {
         "name":"عبدالله عصر",
         "position":"مهندس معماري",
         "description":"مهندس معماري ذو خبرة في تصميم مساحات عملية وجذابة، مع التركيز على الحلول المبتكرة والدقة الفنية.",
         "image":"../../../assets/team/asr.jpeg",
-        "location":"Cairo"
+        "location":"Cairo",
+        "type":""
     },
     {
         "name":"ميرنا مصطفى",
         "position":"مصممة داخلية",
         "description":"تقوم بتصميم المساحات الداخلية بما يجمع بين الجمال والوظيفة، وتطوّر حلولًا إبداعية تعكس احتياجات العملاء وتحقق تجربة مريحة ومتناسقة.",
         "image":"../../../assets/team/merna.jpeg",
-        "location":"Cairo"
+        "location":"Cairo",
+        "type":""
     },
     {
         "name":"كريم مصطفى",
         "position":"مدير مشاريع | مهندس مدني",
         "description":"يدير المشاريع الإنشائية من مرحلة التخطيط حتى التنفيذ، مع ضمان تحقيق أعلى معايير الجودة والكفاءة.",
         "image":"../../../assets/team/kareem.jpeg",
-        "location":"Cairo"
+        "location":"Cairo",
+        "type":""
     },
     {
         "name":"أحمد نور",

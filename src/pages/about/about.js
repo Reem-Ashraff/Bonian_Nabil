@@ -69,9 +69,9 @@ const About = () => {
                             )
                         })}
                     </div>
-                    <div className="branch">{t("about.media")}</div>
-                    <div className="d-flex flex-wrap justify-content-between">
-                        {mediaTeam.map((person, index) => {
+                    <div className="branch">{t("about.programming")}</div>
+                     <div className="d-flex flex-wrap justify-content-between">
+                        {programmerTeam.map((person, index) => {
                             return (
                                 <div key={index} className="person-div d-flex align-items-center">
                                     <div className="col-5 person-img">
@@ -86,10 +86,10 @@ const About = () => {
                                 </div>
                             )
                         })}
-                    </div>
-                    <div className="branch">{t("about.programming")}</div>
+                     </div>
+                    <div className="branch">{t("about.media")}</div>
                     <div className="d-flex flex-wrap justify-content-between">
-                        {programmerTeam.map((person, index) => {
+                        {mediaTeam.map((person, index) => {
                             return (
                                 <div key={index} className="person-div d-flex align-items-center">
                                     <div className="col-5 person-img">

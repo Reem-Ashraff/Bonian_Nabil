@@ -32,7 +32,7 @@
     color: white;
     z-index: 350;
     padding: 20vmin 10vmin 10vmin;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 /* .home-main{

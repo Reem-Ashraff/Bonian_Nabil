@@ -97,6 +97,7 @@
         "position":"Web Developer",
         "description":"Responsible for designing, developing, and maintaining the company website to ensure a professional and engaging online presence.",
         "image":"../../../assets/team/reem.jpeg",
-        "location":"Assiut"
+        "location":"Assiut",
+        "type":"programmer"
     }
 ]

@@ -257,6 +257,9 @@ html[lang="ar"] .action-div .action-text {
     .home-main .project-img img {
         height: 60vmin;
     }
+    .center-text{
+        margin: 10vmin 0vmin;
+    }
 }
 @media (min-width: 450px) {
     html[lang="ar"] .text-div .main-text {

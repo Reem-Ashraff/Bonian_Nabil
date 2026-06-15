@@ -9,8 +9,9 @@ const About = () => {
 
     const { t } = useTranslation();
     const team = document.documentElement.lang === "ar" ? TeamAr : TeamEn;
-    const Team = team.filter(item => item.type !== "media");
+    const Team = team.filter(item => item.type !== "media" || item.item !== "programmer");
     const mediaTeam = team.filter(item => item.type === "media");
+    const programmerTeam = team.filter(item => item.type === "programmer");
 
     return (
         <>
@@ -71,6 +72,24 @@ const About = () => {
                     <div className="branch">{t("about.media")}</div>
                     <div className="d-flex flex-wrap justify-content-between">
                         {mediaTeam.map((person, index) => {
+                            return (
+                                <div key={index} className="person-div d-flex align-items-center">
+                                    <div className="col-5 person-img">
+                                        <img src={person.image} className="w-100 h-100" alt="person" />
+                                        <div className="shadow"></div>
+                                    </div>
+                                    <div className="col person-info">
+                                        <h6>{person.name}</h6>
+                                        <div className="person-position">{person.position}</div>
+                                        <div className="person-description gray">{person.description}</div>
+                                    </div>
+                                </div>
+                            )
+                        })}
+                    </div>
+                    <div className="branch">{t("about.programming")}</div>
+                    <div className="d-flex flex-wrap justify-content-between">
+                        {programmerTeam.map((person, index) => {
                             return (
                                 <div key={index} className="person-div d-flex align-items-center">
                                     <div className="col-5 person-img">

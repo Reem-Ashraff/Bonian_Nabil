@@ -31,7 +31,8 @@
 .text-div {
     color: white;
     z-index: 350;
-    padding: 10vmin 10vmin;
+    padding: 20vmin 10vmin 10vmin;
+    justify-content: space-between;
 }
 
 /* .home-main{
@@ -256,11 +257,6 @@ html[lang="ar"] .action-div .action-text {
 
     .home-main .project-img img {
         height: 60vmin;
-    }
-}
-@media (max-width: 410px) {
-    .center-text{
-        margin: 15vmin 0vmin;
     }
 }
 @media (min-width: 450px) {

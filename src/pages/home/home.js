@@ -29,7 +29,7 @@ const Home = () => {
                     <div className="text-div col-12">
                         <p className="mb-0 home-paragraph">{t("home.paragraph1")}</p>
                         <p className="mb-0 home-paragraph">{t("home.paragraph2")}</p>
-                        <div className="text-center">
+                        <div className="text-center center-text">
                             <div className="main-text w-100">{t("home.bold")}</div>
                             <p className="home-description w-100">{t("home.description")}</p>
                         </div>

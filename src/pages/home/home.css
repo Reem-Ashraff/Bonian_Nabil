@@ -3,7 +3,7 @@
 }
 .background-section {
     height: 100vh;
-    background-image: url(../../assets/home_background.jpeg);
+    /*background-image: url(../../assets/home_background.jpeg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -11,7 +11,14 @@
     top:0vmin;
     width:100%;
 }
-
+.hero-video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: -2;
+}
 .opacity {
     height: 100vh;
     width: 100%;

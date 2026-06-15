@@ -5,6 +5,7 @@ import { Link } from "react-router-dom/cjs/react-router-dom";
 import projectsEn from "../../locates/en/details.json";
 import projectsAr from "../../locates/ar/details.json";
 import { Helmet } from "react-helmet-async";
+import heroVideo from "../../assets/video.mp4"
 
 const Home = () => {
 
@@ -20,7 +21,10 @@ const Home = () => {
       </Helmet>
             <main className="content">
                 <div className="home-main">
-                <section className="background-section d-flex align-items-center">
+                <section className="background-section d-flex flex-column align-items-center justify-content-center">
+                    <video autoPlay muted loop playsInline className="hero-video">
+                        <source src={heroVideo} type="video/mp4"></source>
+                    </video>
                     <div className="opacity"></div>
                     <div className="text-div col-12">
                         <p className="mb-0 home-paragraph">{t("home.paragraph1")}</p>

@@ -258,6 +258,9 @@ html[lang="ar"] .action-div .action-text {
     .home-main .project-img img {
         height: 60vmin;
     }
+    .text-div {
+    padding: 15vmin 10vmin 10vmin;
+    }
 }
 @media (min-width: 450px) {
     html[lang="ar"] .text-div .main-text {

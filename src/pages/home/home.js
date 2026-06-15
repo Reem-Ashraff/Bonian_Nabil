@@ -22,7 +22,7 @@ const Home = () => {
             <main className="content">
                 <div className="home-main">
                 <section className="background-section d-flex flex-column align-items-center justify-content-center">
-                    <video autoPlay muted loop playsInline className="hero-video">
+                    <video autoPlay muted loop playsInline controls={false} controlsList="nodownload noplaybackrate nofullscreen" disablePictureInPicture className="hero-video">
                         <source src={heroVideo} type="video/mp4"></source>
                     </video>
                     <div className="opacity"></div>

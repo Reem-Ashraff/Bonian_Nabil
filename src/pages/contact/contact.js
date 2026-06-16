@@ -34,7 +34,7 @@ const Contact = () => {
                         <p className="contact-description">{t("contact.description")}</p>
                         <div className="d-flex align-items-center info-div">
                             <FontAwesomeIcon icon={faPhone} className="contact-logo"></FontAwesomeIcon>
-                            <div className="contact-info">{t("contact.phone1")} - {t("contact.phone2")}</div>
+                            <div className="contact-info">{t("contact.phone2")}</div>
                         </div>
                         <div className="d-flex align-items-center info-div">
                             <FontAwesomeIcon icon={faWhatsapp} className="contact-logo"></FontAwesomeIcon>

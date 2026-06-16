@@ -20,16 +20,16 @@
   },
   {
     "id": 2,
-    "title": "Harmony Living Room",
+    "title": "Modern Bedroom",
     "location":"Location: Egypt",
-    "description": "A contemporary living space featuring clean lines, comfortable seating, and natural materials that combine functionality with sophisticated elegance.",
-    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
-    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
+    "description": "A modern bedroom designed with a harmonious blend of natural materials and refined minimalism. The illuminated arched stone feature wall creates a striking focal point, adding depth and character to the space. Soft earthy tones, concealed ambient lighting, and carefully selected textures establish a warm and relaxing atmosphere. Clean lines and elegant furnishings enhance the sense of understated luxury and everyday comfort.",
+    "coverImage": "../../../assets/modern_bedroom/modern_bedroom1.jpeg",
+    "panorama": "../../../assets/modern_bedroom/panorama.jpeg",
     "gallery": [
-      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
+      "../../../assets/modern_bedroom/modern_bedroom2.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
     ]
   },
   {
@@ -79,16 +79,16 @@
   },
   {
     "id": 5,
-    "title": "Modern Bedroom",
+    "title": "Harmony Living Room",
     "location":"Location: Egypt",
-    "description": "A modern bedroom designed with a harmonious blend of natural materials and refined minimalism. The illuminated arched stone feature wall creates a striking focal point, adding depth and character to the space. Soft earthy tones, concealed ambient lighting, and carefully selected textures establish a warm and relaxing atmosphere. Clean lines and elegant furnishings enhance the sense of understated luxury and everyday comfort.",
-    "coverImage": "../../../assets/modern_bedroom/modern_bedroom1.jpeg",
-    "panorama": "../../../assets/modern_bedroom/panorama.jpeg",
+    "description": "A contemporary living space featuring clean lines, comfortable seating, and natural materials that combine functionality with sophisticated elegance.",
+    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
+    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
     "gallery": [
-      "../../../assets/modern_bedroom/modern_bedroom2.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
+      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
     ]
   },
   {

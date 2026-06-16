@@ -20,16 +20,16 @@
   },
   {
     "id": 2,
-    "title": "غرفة معيشة هارموني",
+    "title": "غرفة نوم عصرية",
     "location":"الموقع: مصر",
-    "description": "غرفة معيشة معاصرة تتميز بخطوط بسيطة وأثاث مريح وخامات طبيعية تجمع بين العملية والأناقة الراقية.",
-    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
-    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
+    "description": "تصميم غرفة نوم يجمع بين البساطة المعاصرة ودفء المواد الطبيعية، حيث يشكل الجدار الحجري المقوس خلف السرير نقطة محورية مميزة تضيف عمقًا وشخصية للمساحة. تتناغم الألوان الترابية الهادئة مع الإضاءة المخفية الناعمة والخامات الطبيعية لخلق أجواء مريحة ومسترخية. يعزز الأثاث الأنيق والخطوط النظيفة الإحساس بالفخامة الهادئة والراحة اليومية.",
+    "coverImage": "../../../assets/modern_bedroom/modern_bedroom1.jpeg",
+    "panorama": "../../../assets/modern_bedroom/panorama.jpeg",
     "gallery": [
-      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
-      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
+      "../../../assets/modern_bedroom/modern_bedroom2.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
+      "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
     ]
   },
   {
@@ -79,16 +79,16 @@
   },
   {
     "id": 5,
-    "title": "غرفة نوم عصرية",
+    "title": "غرفة معيشة هارموني",
     "location":"الموقع: مصر",
-    "description": "تصميم غرفة نوم يجمع بين البساطة المعاصرة ودفء المواد الطبيعية، حيث يشكل الجدار الحجري المقوس خلف السرير نقطة محورية مميزة تضيف عمقًا وشخصية للمساحة. تتناغم الألوان الترابية الهادئة مع الإضاءة المخفية الناعمة والخامات الطبيعية لخلق أجواء مريحة ومسترخية. يعزز الأثاث الأنيق والخطوط النظيفة الإحساس بالفخامة الهادئة والراحة اليومية.",
-    "coverImage": "../../../assets/modern_bedroom/modern_bedroom1.jpeg",
-    "panorama": "../../../assets/modern_bedroom/panorama.jpeg",
+    "description": "غرفة معيشة معاصرة تتميز بخطوط بسيطة وأثاث مريح وخامات طبيعية تجمع بين العملية والأناقة الراقية.",
+    "coverImage": "../../../assets/harmony_living_room/harmony_living_room1.jpeg",
+    "panorama": "../../../assets/harmony_living_room/panorama.jpeg",
     "gallery": [
-      "../../../assets/modern_bedroom/modern_bedroom2.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom3.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom4.jpeg",
-      "../../../assets/modern_bedroom/modern_bedroom5.jpeg"
+      "../../../assets/harmony_living_room/harmony_living_room2.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room3.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room4.jpeg",
+      "../../../assets/harmony_living_room/harmony_living_room5.jpeg"
     ]
   },
   {

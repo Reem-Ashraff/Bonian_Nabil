@@ -53,11 +53,11 @@ const Footer = () => {
                     <div>
                         <div className="d-flex align-items-center info-div-footer">
                             <FontAwesomeIcon icon={faPhone} className="contact-logo-footer"></FontAwesomeIcon>
-                            <div className="contact-info-footer">{t("contact.phone1")} - {t("contact.phone2")}</div>
+                            <div className="contact-info-footer">{t("contact.phone2")}</div>
                         </div>
                         <div className="d-flex align-items-center info-div-footer">
                             <FontAwesomeIcon icon={faWhatsapp} className="contact-logo-footer"></FontAwesomeIcon>
-                            <div className="contact-info-footer">{t("contact.phone2")}</div>
+                            <a href="https://api.whatsapp.com/send?phone=201501526950&text=%E2%80%9CHello%2C%20I%20want%20more%20info%20about%20the%20product%E2%80%9D&fbclid=IwVERDUASeUkBleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe6fAn2dk_oHR6rVy10S5mnPBptM6RLsI3rVJfh05liD1dXeLsmkTBO96jyGs_aem_J6lHfU0CIxNM5dp0RCq22w" target="_blank" rel="noreferrer" className="link contact-info">{t("contact.phone2")}</a>
                         </div>
                         <div className="d-flex align-items-center info-div-footer">
                             <FontAwesomeIcon icon={faFacebookF} className="contact-logo-footer"></FontAwesomeIcon>

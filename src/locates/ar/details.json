@@ -159,5 +159,154 @@
       "../../../assets/essence_bedroom/essence_bedroom6.jpeg",
       "../../../assets/essence_bedroom/essence_bedroom7.jpeg"
     ]
+  },
+  {
+    "id": 11,
+    "title": "كافيه مكان",
+    "location":"الموقع: مصر",
+    "description": "مساحة تعكس توازن الطبيعة مع التصميم العضوي، حيث تلتقي لمسات الخرسانة الدافئة مع ألياف الروطان الطبيعية وإطلالات النهر الخلابة. يجمع هذا التصميم بين أجواء الهدوء الريفي والحداثة، ليخلق تجربة استثنائية تشعرك بالراحة والسكينة في قلب المدينة.",
+    "coverImage": "../../../assets/makan1.jpeg",
+    "panorama": "../../../assets/makanPanorama.jpeg",
+    "gallery": [
+      "../../../assets/makan2.jpeg",
+      "../../../assets/makan3.jpeg",
+      "../../../assets/makan4.jpeg",
+      "../../../assets/makan5.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "غرفة نوم رئيسية",
+    "location":"الموقع: مصر",
+    "description": "غرفة نوم رئيسية بتصميم مينيمال عصري يجمع بين البساطة والفخامة من خلال لوحة ألوان هادئة بدرجات الأبيض والبيج والخشب الداكن. تتميز الجدران بملمس ناعم مع إضاءة مخفية تضيف أجواءً دافئة ومريحة، بينما يضفي الأثاث المنخفض والخامات الطبيعية لمسة من الأناقة والهدوء، لتوفر مساحة مثالية للاسترخاء والراحة.",
+    "coverImage": "../../../assets/master_bedroom1.jpeg",
+    "panorama": "../../../assets/master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/master_bedroom2.jpeg",
+      "../../../assets/master_bedroom3.jpeg",
+      "../../../assets/master_bedroom4.jpeg",
+      "../../../assets/master_bedroom5.jpeg",
+      "../../../assets/master_bedroom6.jpeg",
+      "../../../assets/master_bedroom7.jpeg",
+      "../../../assets/master_bedroom8.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "ريسبشن منزلي عصري",
+    "location":"الموقع: مصر",
+    "description": "يجسد هذا الريسبشن جوهر الفخامة الهادئة بأسلوب عصري متقن. يتميز التصميم بخطوط انسيابية وأريكة مريحة ذات طابع مودرن توفر لمسة من النعومة، تتناغم مع لوحة ألوان محايدة وراقية. تعزز العناصر الزخرفية البارزة على الجدار الخلفي والإضاءة المتدلية الفريدة من جاذبية المكان، مما يخلق بيئة استقبال متوازنة تجمع بين الدفء المنزلي والرقي الاحترافي.",
+    "coverImage": "../../../assets/modern_home_reception4.jpeg",
+    "panorama": "../../../assets/modern_home_receptionPanorama.jpeg",
+    "gallery": [
+      "../../../assets/modern_home_reception1.jpeg",
+      "../../../assets/modern_home_reception2.jpeg",
+      "../../../assets/modern_home_reception3.jpeg",
+      "../../../assets/modern_home_reception5.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "غرفة نوم سيرينيتي رئيسية",
+    "location":"الموقع: مصر",
+    "description": "تصميم يجسد مفهوم الهدوء والراحة النفسية من خلال دمج خطوط أسلوب الـجاباندي مع اللمسات البوهيمية الدافئة. يتميز الجدار الرئيسي بـ لوحة ماندالا ثلاثية الأبعاد منحوتة بدقة، يحيط بها كساء خشبي طبيعي دافئ ممتد للسقف. تم اختيار ألوان ترابية هادئة مع سرير مبطن منخفض الارتفاع لتعزيز الاتساع البصري، وتكتمل اللوحة الجمالية بإكسسوارات المكرمية اليدوية، الإضاءة الجدارية الدائرية الغائرة، والنباتات الداخلية التي تضفي حيوية متوازنة على الفراغ.",
+    "coverImage": "../../../assets/serenity_master_bedroom2.jpeg",
+    "panorama": "../../../assets/serenity_master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/serenity_master_bedroom1.jpeg",
+      "../../../assets/serenity_master_bedroom3.jpeg",
+      "../../../assets/serenity_master_bedroom4.jpeg",
+      "../../../assets/serenity_master_bedroom5.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "حمام وابي-سابي",
+    "location":"الموقع: مصر",
+    "description": "تصميم داخلي يحتفي بجمال الطبيعة العفوية. يكتمل المشهد بـ مغسلة من الحجر المنحوت ولوح خشب طبيعي سميك، مع حوائط أسمنتية دافئة ومرحاض معلق لتأكيد البساطة والانسيابية.",
+    "coverImage": "../../../assets/wabi_sabi_bathroom1.jpeg",
+    "panorama": "../../../assets/wabi_sabi_bathroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/wabi_sabi_bathroom2.jpeg",
+      "../../../assets/wabi_sabi_bathroom3.jpeg",
+      "../../../assets/wabi_sabi_bathroom4.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "غرفة نوم رئيسية فاخرة",
+    "location":"الموقع: مصر",
+    "description": "تصميم لغرفة نوم رئيسية يجسد الفخامة الحديثة عبر تدرجات الألوان الداكنة والخطوط الهندسية الصريحة. يتميز الجدار الرئيسي بـ تكسية خشبية فخمة مدمج بأعلاها إضاءة خطية دافئة تمنح المكان اتساعاً وعمقاً. تم فصل منطقة النوم عن خزانة الملابس المدمجة بواسطة قاطع خشبي من الشرائح الطولية يسمح بنفاذ الضوء، مع استخدام سرير منخفض ومبطن لإضفاء لمسة من الراحة والهدوء البصري.",
+    "coverImage": "../../../assets/luxury_master_bedroom1.jpeg",
+    "panorama": "../../../assets/luxury_master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/luxury_master_bedroom2.jpeg",
+      "../../../assets/luxury_master_bedroom3.jpeg",
+      "../../../assets/luxury_master_bedroom4.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "حمام فاخر",
+    "location":"الموقع: مصر",
+    "description": "تصميم لحمام يرتكز على الأشكال المنحنية المستوحاة من الطبيعة والخطوط المنسابة. يتميز المكان بـ طاولة مغسلة ممتدة تحمل حوضاً حجرياً فريداً.",
+    "coverImage": "../../../assets/luxury_bathroom5.jpeg",
+    "panorama": "../../../assets/luxury_bathroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/luxury_bathroom1.jpeg",
+      "../../../assets/luxury_bathroom2.jpeg",
+      "../../../assets/luxury_bathroom3.jpeg",
+      "../../../assets/luxury_bathroom4.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "ريسبشن فيلا",
+    "location":"الموقع: مصر",
+    "description": "تصميم داخلي حديث يعتمد على مفهوم الفراغات المفتوحة والمتصلة لتعزيز الاتساع والانسيابية بين ركن المعيشة ومنطقة تناول الطعام. يتميز المكان بـ تدرجات لونية دافئة تجمع بين الأخشاب الطبيعية والأسطح الفاتحة، مما يمنح أجواءً فندقية مريحة. تم استغلال المساحة بذكاء عبر دمج عناصر معمارية بارزة مثل السلم المعلق المضيء والنباتات الداخلية الكبيرة، لخلق توازن بصري يجمع بين الحيوية والفخامة الهادئة.",
+    "coverImage": "../../../assets/vila_reception9.jpeg",
+    "panorama": "../../../assets/vila_receptionPanorama.jpeg",
+    "gallery": [
+      "../../../assets/vila_reception1.jpeg",
+      "../../../assets/vila_reception2.jpeg",
+      "../../../assets/vila_reception3.jpeg",
+      "../../../assets/vila_reception4.jpeg",
+      "../../../assets/vila_reception5.jpeg",
+      "../../../assets/vila_reception6.jpeg",
+      "../../../assets/vila_reception7.jpeg",
+      "../../../assets/vila_reception8.jpeg",
+      "../../../assets/vila_reception10.jpeg",
+      "../../../assets/vila_reception11.jpeg",
+      "../../../assets/vila_reception12.jpeg",
+      "../../../assets/vila_reception13.jpeg",
+      "../../../assets/vila_reception14.jpeg",
+      "../../../assets/vila_reception15.jpeg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "فيلا عصرية",
+    "location":"الموقع: مصر",
+    "description": "تصميم معماري خارجي لفيلا سكنية يدمج بين الأصالة الكلاسيكية واللمسات الحديثة. يرتكز التصميم على واجهة حجرية متوازنة ذات نوافذ زجاجية واسعة تزيد من تدفق الضوء والاتساع البصري. يكتمل المشهد الخارجي بـ تنسيق حدائقي بسيط يضم مساحات خضراء ونافورات تقليدية تضفي حيوية وهدوءاً على المظهر العام للمبنى.",
+    "coverImage": "../../../assets/modern_vila5.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/modern_vila1.jpeg",
+      "../../../assets/modern_vila2.jpeg",
+      "../../../assets/modern_vila3.jpeg",
+      "../../../assets/modern_vila4.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "غرفة نوم عصرية بلمسات الحجر الخام",
+    "location":"الموقع: مصر",
+    "description": "تصميم داخلي لغرفة نوم رئيسية يرتكز على الفخامة الحديثة واستخدام الخامات الجريئة. يتميز الفراغ بـ جدار خلفي من الصخر الطبيعي الخام باللون الداكن، تبرز تفاصيله إضاءة مخفية جانبية تمنح المكان عمقاً ودفئاً. يكتمل التصميم بسرير مبطن منخفض وتنسيق متوازن للإضاءة والمفروشات المحايدة، مما يخلق بيئة مريحة وفخمة للنوم والاسترخاء.",
+    "coverImage": "../../../assets/modern_raw_stone_bedroom1.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/modern_raw_stone_bedroom2.jpeg",
+      "../../../assets/modern_raw_stone_bedroom3.jpeg"
+    ]
   }
 ]

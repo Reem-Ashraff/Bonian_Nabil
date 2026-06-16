@@ -159,5 +159,154 @@
       "../../../assets/essence_bedroom/essence_bedroom6.jpeg",
       "../../../assets/essence_bedroom/essence_bedroom7.jpeg"
     ]
+  },
+  {
+    "id": 11,
+    "title": "Makan Cafe",
+    "location":"Location: Egypt",
+    "description": "A space reflecting the harmony of nature and organic design, where warm concrete textures meet natural rattan fixtures and stunning river views. This design bridges the gap between rustic tranquility and modern sophistication, crafting an exceptional experience of comfort and serenity in the heart of the city.",
+    "coverImage": "../../../assets/makan1.jpeg",
+    "panorama": "../../../assets/makanPanorama.jpeg",
+    "gallery": [
+      "../../../assets/makan2.jpeg",
+      "../../../assets/makan3.jpeg",
+      "../../../assets/makan4.jpeg",
+      "../../../assets/makan5.jpeg"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Master Bedroom",
+    "location":"Location: Egypt",
+    "description": "A contemporary minimalist master bedroom that blends simplicity with elegance through a refined palette of soft whites, warm neutrals, and dark wood accents. Featuring textured walls, concealed ambient lighting, and low-profile furniture, the space creates a calm and sophisticated atmosphere. Natural materials and subtle decorative elements enhance the sense of warmth and tranquility, making it an ideal retreat for relaxation and comfort.",
+    "coverImage": "../../../assets/master_bedroom1.jpeg",
+    "panorama": "../../../assets/master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/master_bedroom2.jpeg",
+      "../../../assets/master_bedroom3.jpeg",
+      "../../../assets/master_bedroom4.jpeg",
+      "../../../assets/master_bedroom5.jpeg",
+      "../../../assets/master_bedroom6.jpeg",
+      "../../../assets/master_bedroom7.jpeg",
+      "../../../assets/master_bedroom8.jpeg"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Modern Home Reception",
+    "location":"Location: Egypt",
+    "description": "This reception space embodies the essence of quiet luxury with a refined modern aesthetic. The design features clean, flowing lines and a plush modern sofa that adds a touch of softness, perfectly harmonizing with a sophisticated neutral color palette. The textured feature wall and unique, artistic pendant lighting elevate the space, creating a balanced reception environment that blends residential warmth with professional elegance.",
+    "coverImage": "../../../assets/modern_home_reception4.jpeg",
+    "panorama": "../../../assets/modern_home_receptionPanorama.jpeg",
+    "gallery": [
+      "../../../assets/modern_home_reception1.jpeg",
+      "../../../assets/modern_home_reception2.jpeg",
+      "../../../assets/modern_home_reception3.jpeg",
+      "../../../assets/modern_home_reception5.jpeg"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Serenity Master Bedroom",
+    "location":"Location: Egypt",
+    "description": "A master bedroom designed around tranquility and organic textures, beautifully merging Japandi minimalism with Bohemian warmth. The focal point is a striking intricate 3D mandala relief wall carving, framed by rich vertical wood paneling that adds vertical depth. The layout centers on a plush, low-profile upholstered platform bed in an earthy monochromatic tone. Handcrafted macramé wall decor, a minimalist circular wall sconce, and curated indoor greenery soften the clean architectural lines, resulting in a refined yet cozy residential retreat.",
+    "coverImage": "../../../assets/serenity_master_bedroom2.jpeg",
+    "panorama": "../../../assets/serenity_master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/serenity_master_bedroom1.jpeg",
+      "../../../assets/serenity_master_bedroom3.jpeg",
+      "../../../assets/serenity_master_bedroom4.jpeg",
+      "../../../assets/serenity_master_bedroom5.jpeg"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Wabi-Sabi Bathroom",
+    "location":"Location: Egypt",
+    "description": "A master bathroom celebrating raw materials and geometric simplicity. The vanity pairs a carved stone basin with a live-edge wooden slab, complemented by earthy micro-cement walls and a sleek floating toilet.",
+    "coverImage": "../../../assets/wabi_sabi_bathroom1.jpeg",
+    "panorama": "../../../assets/wabi_sabi_bathroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/wabi_sabi_bathroom2.jpeg",
+      "../../../assets/wabi_sabi_bathroom3.jpeg",
+      "../../../assets/wabi_sabi_bathroom4.jpeg"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Luxury Master Bedroom",
+    "location":"Location: Egypt",
+    "description": "A master bedroom design that embodies modern luxury through a deep monochromatic palette and clean geometric lines. The focal point is a sleek dark wood paneled accent wall highlighted by warm linear lighting for added depth. A stylish slatted wooden screen elegantly separates the sleeping area from the integrated walk-in wardrobe, while a low-profile upholstered bed anchors the space with a sense of calm and comfort.",
+    "coverImage": "../../../assets/luxury_master_bedroom1.jpeg",
+    "panorama": "../../../assets/luxury_master_bedroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/luxury_master_bedroom2.jpeg",
+      "../../../assets/luxury_master_bedroom3.jpeg",
+      "../../../assets/luxury_master_bedroom4.jpeg"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Luxury Bathroom",
+    "location":"Location: Egypt",
+    "description": "A bathroom focusing on soft architectural curves and raw, tactile surfaces. The space features a custom floating vanity hosting a sculptural stone vessel sink.",
+    "coverImage": "../../../assets/luxury_bathroom5.jpeg",
+    "panorama": "../../../assets/luxury_bathroomPanorama.jpeg",
+    "gallery": [
+      "../../../assets/luxury_bathroom1.jpeg",
+      "../../../assets/luxury_bathroom2.jpeg",
+      "../../../assets/luxury_bathroom3.jpeg",
+      "../../../assets/luxury_bathroom4.jpeg"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Vila Reception",
+    "location":"Location: Egypt",
+    "description": "A modern open-plan interior design emphasizing seamless connectivity between the living lounge and the dining area. The space relies on a warm, neutral color palette combining rich wood paneling with soft, light-toned surfaces to evoke a cozy yet luxurious hospitality feel. Architectural highlights like the floating illuminated staircase and curated indoor greenery are strategically placed to balance visual depth with a serene, upscale ambiance.",
+    "coverImage": "../../../assets/vila_reception9.jpeg",
+    "panorama": "../../../assets/vila_receptionPanorama.jpeg",
+    "gallery": [
+      "../../../assets/vila_reception1.jpeg",
+      "../../../assets/vila_reception2.jpeg",
+      "../../../assets/vila_reception3.jpeg",
+      "../../../assets/vila_reception4.jpeg",
+      "../../../assets/vila_reception5.jpeg",
+      "../../../assets/vila_reception6.jpeg",
+      "../../../assets/vila_reception7.jpeg",
+      "../../../assets/vila_reception8.jpeg",
+      "../../../assets/vila_reception10.jpeg",
+      "../../../assets/vila_reception11.jpeg",
+      "../../../assets/vila_reception12.jpeg",
+      "../../../assets/vila_reception13.jpeg",
+      "../../../assets/vila_reception14.jpeg",
+      "../../../assets/vila_reception15.jpeg"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Modern Vila",
+    "location":"Location: Egypt",
+    "description": "A residential villa exterior design that blends classic architectural symmetry with modern clean lines. The facade features large glass windows that enhance natural light and visual openness. The property is surrounded by minimalist landscaping, incorporating soft greenery and traditional water features to create a welcoming and balanced environment.",
+    "coverImage": "../../../assets/modern_vila5.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/modern_vila1.jpeg",
+      "../../../assets/modern_vila2.jpeg",
+      "../../../assets/modern_vila3.jpeg",
+      "../../../assets/modern_vila4.jpeg"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Modern Raw Stone Bedroom",
+    "location":"Location: Egypt",
+    "description": "A master bedroom design centered on contemporary luxury and bold, tactile elements. The space features a dramatic dark raw stone accent wall, highlighted by strategic hidden lighting that accentuates its natural rugged texture. A low-profile upholstered bed and a neutral color palette complete the look, creating a balanced and deeply serene environment.",
+    "coverImage": "../../../assets/modern_raw_stone_bedroom1.jpeg",
+    "panorama": "",
+    "gallery": [
+      "../../../assets/modern_raw_stone_bedroom2.jpeg",
+      "../../../assets/modern_raw_stone_bedroom3.jpeg"
+    ]
   }
 ]
